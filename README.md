@@ -13,7 +13,7 @@ Click here to view the live app
 </a>
 
 
-
+<hr>
 
 📌 #Features
 
@@ -33,7 +33,7 @@ Indian currency formatting (₹)
 
 Fully deployable via GitHub + Streamlit Cloud
 
-
+<hr>
 🧠 #Machine Learning Model
 
 Algorithm: Random Forest Regressor
@@ -44,7 +44,7 @@ Target Variable: Insurance Charges / Premium
 
 Evaluation Metric: RMSE (Root Mean Squared Error)
 
-
+<hr>
 📊 #Input Parameters
 
 | Feature  | Description               |
@@ -56,7 +56,7 @@ Evaluation Metric: RMSE (Root Mean Squared Error)
 | Smoker   | Smoking habit             |
 | Region   | Residential region        |
 
-
+<hr>
 🛠️ #Tech Stack
 
 Python
@@ -71,7 +71,7 @@ matplotlib
 
 joblib
 
-
+<hr>
 📁 #Project Structure
 insurance-premium-prediction/
 │
@@ -80,7 +80,7 @@ insurance-premium-prediction/
 ├── requirements.txt           # Dependencies
 ├── README.md                  # Project documentation
 
-
+<hr>
 ⚙️ #Installation & Setup
 1️⃣ Clone the Repository
 
@@ -94,14 +94,14 @@ source venv/bin/activate  # Windows: venv\Scripts\activate
 pip install -r requirements.txt
 
 streamlit run app.py
-
+<hr>
 📦 #requirements.txt
 streamlit
 joblib
 pandas
 matplotlib
 scikit-learn
-
+<hr>
 🌐 #Deployment
 
 This project is deployed using Streamlit Community Cloud via GitHub.
@@ -118,7 +118,7 @@ Click Deploy
 
 
 
-
+<hr>
 
 📈 #Future Enhancements
 
@@ -133,18 +133,18 @@ API version using FastAPI
 Mobile-first UI improvements
 
 
-
+<hr>
 🤝 #Contributing
 
 Contributions are welcome!
 Feel free to fork the repo and submit a pull request.
 
-
+<hr>
 📄 #License
 
 This project is licensed under the MIT License.
 
-
+<hr>
 👨‍💻 #Author
 
 Ashis Gupta
