@@ -112,7 +112,7 @@ Push code to GitHub
 
 Go to https://share.streamlit.io
 
-Select repository and app.py
+Select repository and premium_pred.py
 
 Click Deploy
 
