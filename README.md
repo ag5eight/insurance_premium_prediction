@@ -75,7 +75,7 @@ joblib
 📁 #Project Structure
 insurance-premium-prediction/
 │
-├── app.py                     # Streamlit application
+├── premium_pred.py                    # Streamlit application
 ├── insuranceclassifier.pkl    # Trained ML model
 ├── requirements.txt           # Dependencies
 ├── README.md                  # Project documentation
@@ -93,7 +93,7 @@ source venv/bin/activate  # Windows: venv\Scripts\activate
 
 pip install -r requirements.txt
 
-streamlit run app.py
+streamlit run premium_pred.py
 <hr>
 📦 #requirements.txt
 streamlit
