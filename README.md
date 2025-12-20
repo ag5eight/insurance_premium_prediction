@@ -1,15 +1,21 @@
-💰 Insurance Premium Prediction App
+💰 #Insurance Premium Prediction App
 
 A Machine Learning–powered web application to predict insurance premiums based on user details such as age, BMI, gender, smoking habits, region, and number of children.
 Built using Python, scikit-learn, and Streamlit, and deployed via GitHub.
 
+<hr>
 
-🚀 Live Demo
+🚀 #Live Demo
 
-👉 https://insurancepremiumprediction-ldvqjoxdfdwqq3vfyhdq33.streamlit.app/
+👉 ## 🚀 Live Demo
+<a href="https://insurancepremiumprediction-ldvqjoxdfdwqq3vfyhdq33.streamlit.app/" target="_blank">
+Click here to view the live app
+</a>
 
 
-📌 Features
+
+
+📌 #Features
 
 Predicts insurance premium using a trained RandomForestRegressor
 
@@ -28,7 +34,7 @@ Indian currency formatting (₹)
 Fully deployable via GitHub + Streamlit Cloud
 
 
-🧠 Machine Learning Model
+🧠 #Machine Learning Model
 
 Algorithm: Random Forest Regressor
 
@@ -39,7 +45,7 @@ Target Variable: Insurance Charges / Premium
 Evaluation Metric: RMSE (Root Mean Squared Error)
 
 
-📊 Input Parameters
+📊 #Input Parameters
 
 | Feature  | Description               |
 | -------- | ------------------------- |
@@ -51,7 +57,7 @@ Evaluation Metric: RMSE (Root Mean Squared Error)
 | Region   | Residential region        |
 
 
-🛠️ Tech Stack
+🛠️ #Tech Stack
 
 Python
 
@@ -66,7 +72,7 @@ matplotlib
 joblib
 
 
-📁 Project Structure
+📁 #Project Structure
 insurance-premium-prediction/
 │
 ├── app.py                     # Streamlit application
@@ -75,7 +81,7 @@ insurance-premium-prediction/
 ├── README.md                  # Project documentation
 
 
-⚙️ Installation & Setup
+⚙️ #Installation & Setup
 1️⃣ Clone the Repository
 
 git clone https://github.com/your-username/insurance-premium-prediction.git
@@ -89,29 +95,14 @@ pip install -r requirements.txt
 
 streamlit run app.py
 
-📦 requirements.txt
+📦 #requirements.txt
 streamlit
 joblib
 pandas
 matplotlib
 scikit-learn
 
-🌐 Deployment
-
-This project is deployed using Streamlit Community Cloud via GitHub.
-
-Deployment steps:
-
-Push code to GitHub
-
-Go to https://share.streamlit.io
-
-Select repository and app.py
-
-Click Deploy
-
-
-🌐 Deployment
+🌐 #Deployment
 
 This project is deployed using Streamlit Community Cloud via GitHub.
 
@@ -127,7 +118,9 @@ Click Deploy
 
 
 
-📈 Future Enhancements
+
+
+📈 #Future Enhancements
 
 PDF report download
 
@@ -141,18 +134,18 @@ Mobile-first UI improvements
 
 
 
-🤝 Contributing
+🤝 #Contributing
 
 Contributions are welcome!
 Feel free to fork the repo and submit a pull request.
 
 
-📄 License
+📄 #License
 
 This project is licensed under the MIT License.
 
 
-👨‍💻 Author
+👨‍💻 #Author
 
 Ashis Gupta
 Machine Learning & Full Stack Developer
